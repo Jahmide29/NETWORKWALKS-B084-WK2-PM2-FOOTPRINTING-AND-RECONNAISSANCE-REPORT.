@@ -2,12 +2,7 @@
 
 FOOTPRINTING & NETWORK SCANNING PHASES
 
-W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Ethical+Hacking;Reconnaissance+%7C+Footprinting;Network+Discovery+%7C+Scanning;Learning+by+Doing+%F0%9F%94%90" />"Cybersecurity" (https://img.shields.io/badge/Domain-Cybersecurity-blue?style=for-the-badge)
-"Kali Linux" (https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-"Nmap" (https://img.shields.io/badge/Tool-Nmap%2FZenmap-4682B4?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+W2-PM-FINAL | CYBERSECURITY | 
 
 Author: ODESANMI OLUMIDE
 
@@ -300,7 +295,6 @@ Based on the observations, I recommend the following security improvements:
 
 This section contains evidence collected during the practical activities.
 
-Screenshots should be uploaded into an "evidence/" folder in this repository.
 
 Phase 1: Footprinting & Reconnaissance
 
@@ -321,31 +315,9 @@ Phase 2: Network Scanning
 4| Network Topology| Visual representation of discovered hosts
 5| Topology PDF| Exported network topology report
 
-Adding Screenshots to GitHub
-
-Create a folder named:
-
-evidence/
-
-Upload your screenshots into that folder.
-
-To display a screenshot in your README, use:
-
-![WHOIS Results](evidence/whois.png)
-
-For multiple screenshots:
-
-## WHOIS Results
-![WHOIS](<div align="center">🔐 PENETRATION TESTING REPORT
-
-FOOTPRINTING & NETWORK SCANNING PHASES
 
 W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Ethical+Hacking;Reconnaissance+%7C+Footprinting;Network+Discovery+%7C+Scanning;Learning+by+Doing+%F0%9F%94%90" />"Cybersecurity" (https://img.shields.io/badge/Domain-Cybersecurity-blue?style=for-the-badge)
-"Kali Linux" (https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-"Nmap" (https://img.shields.io/badge/Tool-Nmap%2FZenmap-4682B4?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 Author: ODESANMI OLUMIDE
 
